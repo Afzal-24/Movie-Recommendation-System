@@ -23,3 +23,6 @@ Files
 dataset.csv: Contains movie data.
 movie_recommendation.ipynb: Jupyter Notebook with the code for the recommendation system.
 
+<img width="743" alt="Screenshot 2024-04-30 130710" src="https://github.com/Afzal-24/Movie-Recommendation-System/assets/157290678/4ace441d-f521-4405-8100-126d152849e7">
+
+
